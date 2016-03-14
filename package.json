@@ -1,0 +1,23 @@
+{
+  "name": "lable-box",
+  "version": "0.0.1",
+  "description": "A lable style input for angular",
+  "main": "lable-box.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/liuhaiping/lable-box.git"
+  },
+  "keywords": [
+    "lable",
+    "angular"
+  ],
+  "author": "Vincent.Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuhaiping/lable-box/issues"
+  },
+  "homepage": "https://github.com/liuhaiping/lable-box#readme"
+}
